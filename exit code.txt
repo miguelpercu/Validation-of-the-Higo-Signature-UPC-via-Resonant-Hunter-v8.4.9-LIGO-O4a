@@ -1,0 +1,190 @@
+
+================================================================================
+RESONANT HUNTER v8.4.9 – SINGULARIDAD RECUPERADA
+================================================================================
+
+📁 Cargando datos LIGO O4a...
+✓ Cargadas 67108864 muestras. GPS inicio: 1389424640.0
+
+[FASE 1] Blanqueo Percudani (ε = 1e-4, k_early = 0.967)...
+
+[FASE 2] Análisis de coherencia (8189 ventanas)
+   ✓ Ventana 50 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1300 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 100 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1300 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 150 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1300 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 200 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1299 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 250 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1299 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 300 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1299 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 350 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1299 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 400 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1299 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 450 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1299 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 500 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1299 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 550 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1299 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 600 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1298 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 650 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1298 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 700 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1298 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 750 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1298 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 800 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1298 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 850 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1298 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 900 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1298 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 950 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1297 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1000 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1297 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1050 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1297 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1100 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1297 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1150 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1297 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1200 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1297 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1250 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1297 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1300 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1297 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1350 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1296 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1400 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1296 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1450 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1296 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1500 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1296 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1550 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1296 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1600 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1296 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1650 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1296 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1700 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1295 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1750 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1295 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1800 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1295 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1850 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1295 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1900 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1295 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 1950 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1295 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2000 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1295 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2050 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1295 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2100 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1294 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2150 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1294 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2200 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1294 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2250 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1294 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2300 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1294 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2350 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1294 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2400 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1294 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2450 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1293 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2500 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1293 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2550 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1293 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2600 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1293 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2650 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1293 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2700 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1293 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2750 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1293 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2800 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1293 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2850 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1292 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2900 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1292 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 2950 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1292 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3000 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1292 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3050 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1292 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3100 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1292 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3150 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1292 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3200 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1291 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3250 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1291 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3300 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1291 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3350 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1291 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3400 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1291 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3450 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1291 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3500 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1291 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3550 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1291 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3600 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1290 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3650 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1290 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3700 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1290 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3750 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1290 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3800 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1290 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3850 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1290 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3900 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1290 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 3950 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1289 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4000 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1289 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4050 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1289 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4100 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1289 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4150 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1289 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4200 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1289 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4250 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1289 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4300 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1289 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4350 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1288 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4400 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1288 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4450 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1288 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4500 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1288 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4550 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1288 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4600 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1288 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4650 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1288 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4700 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1287 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4750 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1287 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4800 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1287 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4850 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1287 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4900 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1287 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 4950 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1287 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5000 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1287 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5050 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1287 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5100 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1286 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5150 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1286 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5200 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1286 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5250 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1286 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5300 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1286 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5350 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1286 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5400 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1286 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5450 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1285 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5500 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1285 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5550 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1285 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5600 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1285 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5650 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1285 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5700 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1285 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5750 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1285 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5800 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1285 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5850 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1284 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5900 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1284 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 5950 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1284 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6000 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1284 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6050 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1284 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6100 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1284 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6150 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1284 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6200 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1283 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6250 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1283 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6300 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1283 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6350 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1283 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6400 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1283 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6450 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1283 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6500 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1283 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6550 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1283 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6600 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1282 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6650 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1282 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6700 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1282 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6750 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1282 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6800 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1282 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6850 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1282 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6900 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1282 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 6950 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1282 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7000 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1281 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7050 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1281 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7100 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1281 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7150 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1281 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7200 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1281 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7250 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1281 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7300 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1281 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7350 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1280 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7400 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1280 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7450 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1280 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7500 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1280 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7550 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1280 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7600 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1280 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7650 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1280 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7700 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1280 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7750 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1279 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7800 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1279 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7850 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1279 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7900 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1279 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 7950 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1279 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 8000 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1279 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 8050 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1279 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 8100 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1278 Hz ⚠️ SINGULARIDAD
+   ✓ Ventana 8150 | Coh: 1.000 | Lag: -150 | Freq: 227.500 Hz | Anomalía: +40.1278 Hz ⚠️ SINGULARIDAD
+
+================================================================================
+DIAGNÓSTICO FINAL – PERCUDANI AUTHORSHIP
+COHERENCIA MÁXIMA:         1.000000
+FRECUENCIA ASOCIADA:       227.500 Hz
+ANOMALÍA MEDIA:            +40.1289 Hz
+LAG ÓPTIMO GLOBAL:         -150 muestras
+RETARDO TEMPORAL:          -9.155 ms
+RATIO DE INESTABILIDAD UPC: 5.140
+ESTADO:                     THERMODYNAMIC OVERDRIVE MODE DETECTED
+================================================================================
+
+📄 Reporte guardado como: resonant_hunter_singularidad_20260225_063529.json
+🧹 Checkpoint eliminado.
+
+✅ Proceso finalizado.

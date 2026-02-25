@@ -1,0 +1,37 @@
+{
+    "timestamp": "2026-02-25T06:35:29.499894",
+    "authors": [
+        "Miguel \u00c1ngel Percudani",
+        "Jorge Iv\u00e1n D\u00edaz"
+    ],
+    "status": "THERMODYNAMIC OVERDRIVE MODE DETECTED",
+    "metrics": {
+        "max_coherence": 1.0,
+        "freq_at_max_coherence": 227.5,
+        "mean_anomaly_hz": 40.12891016203704,
+        "optimal_lag_samples": -150,
+        "instability_ratio": 5.14,
+        "time_delay_ms": -9.1552734375
+    },
+    "config": {
+        "fs": 16384,
+        "k_early": 0.967,
+        "upc_ratio": 5.14,
+        "alpha_drift_hz_per_day": 0.046,
+        "base_freq_hz": 187.37,
+        "target_freq_hz": 232.04,
+        "higo_band_hz": [
+            227.5,
+            232.5
+        ],
+        "window_sec": 2.0,
+        "overlap": 0.75,
+        "epsilon": 0.0001,
+        "max_lag_samples": 150
+    },
+    "references": {
+        "resonant_hunter": "10.5281/zenodo.18446712",
+        "uat": "10.5281/zenodo.17729221",
+        "upc": "10.5281/zenodo.18210808"
+    }
+}
